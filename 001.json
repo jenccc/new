@@ -1,8 +1,7 @@
 [
   {
+    "key": "天空云",
     "id": 50,
-    "key": "tky",
-    "name": "天空云",
     "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
     "download": "",
     "jiexiUrl": "",
@@ -12,9 +11,8 @@
     "status": "可用"
   },
   {
+    "Keu": "八戒云",
     "id": 51,
-    "key": "bjcj",
-    "name": "八戒云",
     "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
     "download": "",
     "jiexiUrl": "",
@@ -24,9 +22,8 @@
     "status": "可用"
   },
   {
+    "Key": "BT天堂",
     "id": 52,
-    "key": "bttcj",
-    "name": "BT天堂",
     "api": "http://bttcj.com/inc/sapi.php",
     "download": "",
     "jiexiUrl": "",
@@ -36,9 +33,8 @@
     "status": "可用"
   },
   {
+    "Key": "39影视",
     "id": 53,
-    "key": "39kan",
-    "name": "39影视",
     "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
@@ -48,9 +44,8 @@
     "status": "可用"
   },
   {
+    "Key": "乐播",
     "id": 54,
-    "key": "lb",
-    "name": "乐播",
     "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "",
@@ -60,9 +55,8 @@
     "status": "可用"
   },
   {
+    "Key": "shayu",
     "id": 55,
-    "key": "sy",
-    "name": "shayu",
     "api": "https://shayuapi.com/api.php/Seacms/vod/",
     "download": "",
     "jiexiUrl": "",
@@ -72,9 +66,8 @@
     "status": "可用"
   },
   {
+    "Key": "大地",
     "id": 56,
-    "key": "dd",
-    "name": "大地",
     "api": "https://dadiapi.com/api.php",
     "download": "",
     "jiexiUrl": "",
