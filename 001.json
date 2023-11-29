@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": 1,
+    "key": "tky",
+    "name": "天空云",
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "常用组",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 2,
+    "key": "bjcj",
+    "name": "八戒云",
+    "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "常用组",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 3,
+    "key": "bttcj",
+    "name": "BT天堂",
+    "api": "http://bttcj.com/inc/sapi.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "常用组",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 4,
+    "key": "39kan",
+    "name": "39影视",
+    "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "常用组",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 5,
+    "key": "lb",
+    "name": "乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18禁",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 6,
+    "key": "sy",
+    "name": "shayu",
+    "api": "https://shayuapi.com/api.php/Seacms/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18禁",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 7,
+    "key": "dd",
+    "name": "大地",
+    "api": "https://dadiapi.com/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18禁",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  }
+]
