@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "APTV",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "type": "remote",
+    "isActive": true,
+    "epg": "https://epg.112114.xyz/"
+  },
+  {
+    "id": 2,
+    "name": "bestv",
+    "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u",
+    "isActive": true,
+    "type": "remote",
+    "epg": "https://epg.112114.xyz/"
+  },
+  {
+    "id": 3,
+    "name": "肥羊精选",
+    "url": "https://telegram-feiyangdigital.v1.mk",
+    "isActive": true,
+    "type": "remote",
+    "epg": ""
+  },
+  {
+    "id": 4,
+    "name": "凤凰资讯",
+    "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8",
+    "isActive": true,
+    "type": "remote",
+    "epg": ""
+  },
+  {
+    "id": 5,
+    "name": "茶客",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
+    "isActive": true,
+    "type": "remote",
+    "epg": ""
+  },
+  {
+    "id": 7,
+    "name": "乌云",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt",
+    "isActive": true,
+    "type": "remote",
+    "epg": ""
+  },
+  {
+    "id": 8,
+    "name": "4k/8k",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
+    "isActive": true,
+    "type": "remote",
+    "epg": ""
+  },
+  {
+    "id": 10,
+    "name": "SXG-IPV6",
+    "url": "https://telegram-feiyangdigital.v1.mk/sxg.m3u",
+    "isActive": true,
+    "type": "remote",
+    "epg": ""
+  },
+  {
+    "id": 12,
+    "name": "虎牙直播",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u",
+    "isActive": true,
+    "type": "remote",
+    "epg": ""
+  },
+  {
+    "id": 13,
+    "name": "虎牙一起看",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yqk.m3u",
+    "isActive": true,
+    "type": "remote",
+    "epg": ""
+  },
+  {
+    "id": 14,
+    "name": "斗鱼一起看",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
+    "isActive": true,
+    "type": "remote",
+    "epg": ""
+  },
+  {
+    "id": 15,
+    "name": "斗鱼直播",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u",
+    "isActive": true,
+    "type": "remote",
+    "epg": ""
+  },
+  {
+    "id": 17,
+    "name": "Ray直播",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+    "type": "remote",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true
+  },
+  {
+    "id": 18,
+    "name": "多多直播",
+    "url": "https://bitbucket.org/xduo/duoapi/raw/master/v.txt",
+    "type": "remote",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true
+  },
+  {
+    "id": 19,
+    "name": "IPV6专用",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u",
+    "type": "remote",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true
+  },
+  {
+    "id": 20,
+    "name": "电视伴音",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
+    "type": "remote",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true
+  },
+  {
+    "id": 21,
+    "name": "超级MV",
+    "url": "https://bitbucket.org/xduo/json/raw/master/MV.txt",
+    "type": "remote",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true
+  },
+  {
+    "id": 22,
+    "name": "俊于直播",
+    "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+    "type": "remote",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true
+  }
+]
